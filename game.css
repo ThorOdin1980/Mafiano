@@ -1,0 +1,79 @@
+ 
+ /* Jalla mekk css filen tilhører mafiano.no, ingen andre en mafiano.no har lov til å bruke denne css filen. Kopiering er forbudt. */
+ 
+ html { height:100% auto; }
+ body { height:100% auto; background-color:#3c3c3c; font-size:10px; width: 1000px; margin: 0 auto 0 auto; font-family: Verdana; cursor: default; }
+
+ #SB_Hovedflate { float: left; width: 1000px; min-height: 900px; background-image: url('../Design/bakgrund.gif'); background-position: center top; background-repeat: repeat; }
+ #SB_Banner     { float: left; width: 840px; height: 175px; background-color:#202020; background-image: url('../Design/banneren.jpg'); background-position: center top; background-repeat: repeat; margin-left: 80px; margin-top: 8px; }
+ #SB_Rute_1     { float: left; width: 164px; height: 175px; background-color:#202020; margin-left: 80px; margin-top: 8px; }
+ #SB_Rute_2     { float: left; width: 164px; height: 175px; background-color:#202020; margin-left: 5px; margin-top: 8px; }
+ #SB_Rute_3     { float: left; width: 164px; height: 175px; background-color:#202020; margin-left: 5px; margin-top: 8px; }
+ #SB_Rute_4     { float: left; width: 164px; height: 175px; background-color:#202020; margin-left: 5px; margin-top: 8px; }
+ #SB_Rute_5     { float: left; width: 164px; height: 175px; background-color:#202020; margin-left: 5px; margin-top: 8px; }
+ #SB_Knapp      { float: left; width: 100px; height: 24px; background-color:#202020; margin-left: 5px; margin-top: 5px; }
+ #SB_Sms2       { float: left; width: 630px; height: 24px; background-color:#202020; margin-left: 80px; margin-top: 5px; }
+ #SB_Storflate  { float: left; width: 840px; background-color:#202020; margin-left: 80px; margin-top: 5px; }
+ #SB_Venstre    { float: left; width: 164px; background-color:#202020; margin-left: 80px; margin-top: 5px; }
+ #SB_Midten     { float: left; width: 502px; background-color:#202020; margin-left: 5px;  margin-top: 5px; }
+ #SB_Midten3    { float: left;}
+ #SB_Midten2    { float: left; width: 498px; background-color:#404040; margin-left: 2px;  margin-top: 1px; margin-bottom:2px; padding-top:4px; padding-bottom:4px; }
+ #SB_Midten4    { float: left; width: 836px; background-color:#404040; margin-left: 2px;  margin-top: 1px; margin-bottom:2px; padding-top:4px; padding-bottom:4px; }
+ #SB_Midten6    { float: left; }
+ #SB_Hoyre      { float: left; width: 164px; background-color:#202020; margin-left: 5px;  margin-top: 5px; }
+ #SB_Bunn       { float: left; width: 840px; height: 15px; margin-left: 80px; margin-top: 5px; visibility: hidden }
+ #TopTekst { float: left; font-family:Arial Black; width: 840px; margin: 5px 0 0 80px; text-align:right; color:#b6e122; font-size:11px;  /* for IE */ filter:alpha(opacity=60); /* CSS3 standard */ opacity:0.6; }
+ .TopT:hover { cursor:pointer; text-decoration: underline; }
+ .Tider, .TidKlar { color:#7e9334;}
+ .Viktig { color:#34e122; filter:alpha(opacity=60); opacity:0.6; }
+
+
+ 
+ #SB_Rute_1 h1, #SB_Rute_2 h1, #SB_Rute_3 h1, #SB_Rute_4 h1, #SB_Rute_5 h1, #SB_Venstre h1, #SB_Hoyre h1 { width:164px; height:25px; text-indent:25px; line-height:23px; margin: 0; padding: 0 0 1px 0; font-size:11px; font-weight: bold; color:#000000; background-image:url('../Design/knapp1.jpg'); background-repeat: no-repeat; }
+ #SB_Rute_1 h1:hover, #SB_Rute_2 h1:hover, #SB_Rute_3 h1:hover, #SB_Rute_4 h1:hover, #SB_Rute_5 h1:hover { cursor:pointer; color:#939595; }
+
+ 
+ #SB_Midten h1 { width:502px; height:25px; margin-top:0px; margin-bottom:-4px; font-size:11px; font-weight: bold; color:#000000; padding-left:25px; padding-top:5px; background-image: url(../Design/knapp3.jpg); background-position: top left; background-repeat: no-repeat; }
+ #SB_Storflate h1 { width:840px; height:25px; margin-top:0px; margin-bottom:-4px; font-size:11px; font-weight: bold; color:#000000; padding-left:25px; padding-top:5px; background-image: url('../Design/knapp7.jpg'); background-position: top left; background-repeat: no-repeat; }
+ #SB_Venstre h6, #SB_Hoyre h6 { width:160px; height:40px; margin-left:2px; margin-top:0px; margin-bottom:0px; background-image: url('../Design/bunn.jpg'); background-position: top left; background-repeat: no-repeat; }
+ #SB_Midten3 h6 { width:498px; height:40px; margin-left:2px; margin-top:0px; margin-bottom:0px; background-image: url('../Design/bunn2.jpg'); background-position: bottom left; background-repeat: no-repeat; }
+ #SB_Midten6 h6 { width:836px; height:40px; margin-left:2px; margin-top:0px; margin-bottom:0px; background-image: url('../Design/bunn5.jpg'); background-position: bottom left; background-repeat: no-repeat; }
+ 
+ #SB_Rute_1 ul, #SB_Rute_2 ul, #SB_Rute_3 ul, #SB_Rute_4 ul, #SB_Rute_5 ul { margin-left: 2px; margin-top: 1px; padding:0; width:160px; height:146px; background-image: url('../Design/bakgrund.jpg'); background-position: bottom left; background-repeat: no-repeat; background-color:#404040; }
+ #SB_Venstre ul, #SB_Hoyre ul { margin-left: 2px; margin-top: 1px; padding:0; width:160px; margin-bottom: 1px; }
+ #SB_Sms2 ul { margin-left: 2px; margin-top: 2px; padding:0; width:626px; height: 20px; margin-bottom: 1px; background-color:#404040; }
+ #SB_Hoyre ol { margin-left: 2px; margin-top: 2px; padding: 0px; width:160px; margin-bottom: 2px; background-color:#404040; color: #FFFFFF; }
+ 
+ #SB_Rute_1 li, #SB_Rute_2 li, #SB_Rute_3 li, #SB_Rute_4 li, #SB_Rute_5 li { width:160px; height:16.3px; list-style-type:none; padding-top:3px; text-indent: 1em; color:#8d98a4; }
+ #SB_Rute_1 li:hover, #SB_Rute_2 li:hover, #SB_Rute_3 li:hover, #SB_Rute_4 li:hover, #SB_Rute_5 li:hover { background-color:#707070; font-weight: bold; color:#183d65; cursor:pointer; }
+ #SB_Venstre li, #SB_Hoyre li { width:160px; height:16px; list-style-type:none; padding-top:1px; text-indent: 1em; background:#202020 url('../Design/li_knapp.jpg') left top; background-repeat: no-repeat; color: #c1c0c0; }
+ #SB_Venstre li:hover, #SB_Hoyre li:hover { background:#202020 url('../Design/li_knapp2.jpg') no-repeat center top; color: #e0dfdf; font-weight: bold; cursor:pointer; }
+ 
+  .BunnIMG { display:block; margin: 1px 0 0 2px; }
+
+ dl { display:block; width:160px; margin: 2px 2px 2px 2px; background-color:#404040; padding: 0; font-size: 10px; }
+ dt, dd { margin:0; overflow: hidden; min-height: 5px; }
+ dt { float: left; padding: 0 0 0 5px; font-weight: bold; color: #d5d4d4; }
+ dd { padding: 0 5px 0 0; color: #FFFFFF; }
+ 
+ .knapp_ban { width: 100px; height: 24px; border:2px solid #202020; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px; background-color:#404040; vertical-align: middle; }
+ .textbox   { float: right; border: 0px; margin-left: 5px; margin-top:5px; padding: 0px; width: 373px; height: 18px; background-color:#383838; font-size:10px; color:#FFFFFF; font-family: Verdana; }
+ .texterea  { float: right; border: 0px; margin-left: 5px; margin-top:5px; padding: 0px; width: 373px; height: 193px; background-color:#383838; font-size:10px; color:#FFFFFF; font-family: Verdana; }
+ .textbox2   { float: left; border: 0px; margin-left: 5px; padding: 0px; width: 100px; height: 18px; background-color:#303030; color:#ffffff; font-family: Verdana; font-size:11px; }
+ .textbox3   { float: left; border: 0px; margin-left: 5px; padding: 0px; width: 220px; height: 18px; background-color:#303030; color:#ffffff; font-family: Verdana; font-size:11px; }
+
+ .drakos { visibility:hidden; float:right; }
+
+ a, a:link, a:visited { color:#FFFFFF; text-decoration:none; }
+
+
+ .text_box	{
+ 	width:479px;
+ 	margin:0 auto;
+ 	margin-top:5px;
+ 	border:1px solid #333;
+ 	color:#FFF;
+
+ 	padding:5px;
+ 	background-color:#3a3a3c;
+ }

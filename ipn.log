@@ -1,0 +1,203 @@
+[2017-01-08 10:25 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 717
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=02%3A25%3A37+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AzFmRN2alSXsVcRQ-bkJDjsW0iFTAIyU83nvSzyPcbe4YtT52-6wSSK7&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=81320750C6630662G&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=34b820aa98bf2
+[2017-01-08 10:25 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 10:25:51 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=LJhFKHt0wSgxxUfTFpxod9cOZdmSlpxGd2eovqTMl6SKbKUZKA07Tl5lkssADa6X3UnE6R41uimA7XrumJzzxdCMYmhXNi5EZ2ymjh1CTkCAoI-kdYjkOe7RLRJO9TrCbQ89RPEcLNzM4PzXwfeW6_7E_g2JJUntJ0h1ttoffDumFDx8Iq0zXV3n-jnRLMLpiQjogDvo5fg7CXpZ81DnBIfYXOffkVZa8fT5HjD2MI56Y7mKsuGT_WAMJBFN0TC0V9ZZMIbexQtj79_2gR0CYnRn4sVf10iFgOCOBOTx8cANHGIPySPCV6CkHr0GAdo0NkJ6Zc461KEaf2ii_0UxncCQmSwphCSzbEpOChXkNp4MoYFwDoFo4YSI6GXd1Whg7r6Z7uuqrdwcjFAjEcJXxQn3R7uJLU6rkcR7SW; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 10:25:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 10:25:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483871151625838; path=/; expires=Tue, 01-Jan-47 10:25:51 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: e6e070fc93f1f
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D2937287256%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 10:55:51 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 10:25 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=02%3A25%3A37+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AzFmRN2alSXsVcRQ-bkJDjsW0iFTAIyU83nvSzyPcbe4YtT52-6wSSK7&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=81320750C6630662G&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=34b820aa98bf2
+[2017-01-08 10:30 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 717
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=02%3A30%3A42+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AxxUedOUhg2mFPwJrOrtWrECrrHwA.8SNSPMOByPZiMGRjkQ1mXeXa4Z&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=77E2492220142591S&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=7d0c98232a6d1
+[2017-01-08 10:30 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 10:30:53 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=u4IPxIdAShR8CcQbikEPhMscQk_FWc0J925vdqBmKeeDqoKeRGRQObRtnQtdmJFAtbbA2Pre6H6-3Ja2ST-ttxRxgPbOsivrQwj3q-TQo65Znl1tfwMShGuq_XDkLvP7r71KM8W2xnTlvuofzmAhJvL863kqP6fiFsdaKaZGzwZuAl6dk-241H_MSQg5Wpf4FFsubAGL5F6f9OWJgaQbM71Rek2qCQjQrNqpJZXHeD6SeNOYqKvWKj06Umzp1XQ5Uup7FjnY5tT_5x72KTtOJJIIvFT3XJrrMehNMjK_xuwcrxbsmIPffUGezChLCWZCGdpeSrBfP1i2prkO_KTL9eeA15hNf2th9DICAkS5YY_7hxr2eS30IIWgFoykgaIfTj00_31IM7OlAVAAkIBbJ5r8IR8NFIuPua9tssKqhX0OpfrKAm0h4IvVYS4; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 10:30:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 10:30:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483871453959830; path=/; expires=Tue, 01-Jan-47 10:30:53 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: 85e759de5f64
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D3709104728%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 11:00:54 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 10:30 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=02%3A30%3A42+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AxxUedOUhg2mFPwJrOrtWrECrrHwA.8SNSPMOByPZiMGRjkQ1mXeXa4Z&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=77E2492220142591S&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=7d0c98232a6d1
+[2017-01-08 14:11 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 720
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=06%3A11%3A18+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=200+poeng+for+180+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=Aj-KgkP9gPuP8-fV0MIkJdp5JSojA5uVV.ieFc0UhvIy5dIiJd0F1yRS&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=5P279398BR5904607&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=8.92&mc_gross=180.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=b3817a20917b1
+[2017-01-08 14:11 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 14:11:32 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=jC7ZACU-R33AzpVKMZiie3haI23g1uHqSXZ1jTzk66ej-lho7lvfk9DwAAEnNag2RBuRD5Tk25N8i1s-XJXnOULeAjR94QDbgFtmJwDiRPe-OUAosPS4AGsEs32maCl8vZbM9xnivukl5eI2aM_ki4tem2qgdhbAw4niYWsV1dP_cWbttBYd896N0pPTaGPvaKrTuyepD9cNuF2sygtfHdwj-6kBC309R01qWZ_iepifbQKbLEFrsBq95cnq_505zAdGZ7vuTGf9h4m_nBpsFRvqqFQsXg6TIp7WWQ0sAujcCiKWrUmX6NeDJVkui6mVVS78tipjlIB_5p7-WhxRG4MWgqwiuWbqAGDXGRs0go2JZK4izVxeidqAJOHqAhcyBlMaSLu_W28cmoMeSKAr_aBnLZnPq1CM2Zbq3N8T19ZWUlws6TnMNcrr60i; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 14:11:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 14:11:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483884692372161; path=/; expires=Tue, 01-Jan-47 14:11:32 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: ed8bf2ae56a40
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D2487775832%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 14:41:32 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 14:11 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=06%3A11%3A18+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=200+poeng+for+180+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=Aj-KgkP9gPuP8-fV0MIkJdp5JSojA5uVV.ieFc0UhvIy5dIiJd0F1yRS&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=5P279398BR5904607&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=8.92&mc_gross=180.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=b3817a20917b1
+[2017-01-08 14:16 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 717
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=06%3A15%3A16+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=ANRt4SJMHl0-agAfjMKhlBwA4q.bAXXDEzSHkxpc2ciX1N7i4kimcLEO&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=21W521377S8724839&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=bc4b782c95f4c
+[2017-01-08 14:16 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 14:16:05 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=1qfxMOndPsOLfdwyhV_b3fuxvWEPT65-O3PnjkxsEpav2cKp1OrNsuaNpLZXmfR5lc3kCgasD5-9CxDRVousGXoY4p61eK9B36SmU0_UsY-CuBtpYcQC1GoqUFZHyAWra1cZgNN5HfZ5tOWMm0uGa1X_3LNDYBgCuHNrvh7x80iIIOcFb7K3nu-_b5MG2BI8x6MlS4hpEkC3yP4zR149bTCG3IFlYyGYdRaomrz2oWQQYtUlCYEqqej--BNfR8H0LUMrKDBJaZ7GF8BtbMagfkUUhw8nVKqBVtCQhjfHU4Q4sGNp1yjZpm6DlGoYJ1OqOH6DPifKJevYCoRIJ7-rlK8r5FGibYoHYEtUk4jaDs3IaO0Y2gDefZnFxYPG2YQH1J_ymwdtOpnzDZxC7SVe-CEPtqHRaIvBdetvJwSH60raezq2DdbEwLUuQ6G; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 14:16:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 14:16:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483884965168716; path=/; expires=Tue, 01-Jan-47 14:16:05 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: 58bfc87c24daa
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D2773054040%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 14:46:05 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 14:16 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=06%3A15%3A16+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=ANRt4SJMHl0-agAfjMKhlBwA4q.bAXXDEzSHkxpc2ciX1N7i4kimcLEO&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=21W521377S8724839&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=bc4b782c95f4c
+[2017-01-08 20:17 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 717
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=12%3A17%3A30+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AwMRUaewWLMpARtEP3hNyRl6jiUvAlTRfLud8k..el7mhmw.HAOppc89&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=00M78533MR649532K&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=bd170652a9687
+[2017-01-08 20:17 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 20:17:44 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=vPP9EkZcZpOpuNOu17rXKbC3FcPIu5LHMcN7w6B1fz-tgTbMo_CyN5nn-XSvCm09SMIAUWnDJaqFvnJiv8hBPTltr3yb6CvRybmEpF3_gBWHJOPFS6b2HPxid4kCwo6YucrlTH7XtMFHK-L-LKklHC11uz-lmQ1FrUwPNmTmP8g1mL-JNHBfz7Kr0o2znlU8EIP6jgmHeucpQdLNwYkDP25GjpWfBVFzoObHcqRG3Zwr2b6ac2yznvaEmBD7NDLoUhcaMgaR1FEdnYK3oqt2bqcVfaBo-Fw6dMHt6K12mEtDOxmAO9McNHRhOie-Tve6Ptk-WbpvdxeV-9LyMhkVaf-sbM1SvgVn9vR7gtdjpo7b8RzAl8vE9AITxlPvTweWVbjOsTI8ZeKiSNCm_S5GIjAY3O0YSYo-7hqpZQDjoeqHcWKB3EqYXNHLfTu; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 20:17:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 20:17:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483906664532993; path=/; expires=Tue, 01-Jan-47 20:17:44 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: f09587bb7d439
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D1755214424%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 20:47:44 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 20:17 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=12%3A17%3A30+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=50+poeng+for+50+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AwMRUaewWLMpARtEP3hNyRl6jiUvAlTRfLud8k..el7mhmw.HAOppc89&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=00M78533MR649532K&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=4.50&mc_gross=50.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=bd170652a9687
+[2017-01-08 20:31 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 718
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=12%3A30%3A55+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=100+poeng+for+90+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AxxUedOUhg2mFPwJrOrtWrECrrHwAOwLFarfU.VJwVatpCAbXxjEKtTX&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=3P098243BA367561X&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=5.86&mc_gross=90.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=43316e3321a5d
+[2017-01-08 20:31 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 20:31:06 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=T8YNDa2WfawIqU8AK-RTdfcb0pypHbqCCBQTlwdS3MModYWbqXWo7i3QlxcjfSS6t4CCWczRuHnCaxc6geNeIfczWetj_gna1w6udUSOfLTn2K7eI_es6riVGT6-ZRK3hERnLy0SOehQkJVwHHZCtue0dkCLHzy_I5SzbXWGQyzuZ09TkiHX5SPQ-DYLjEWzyZTHtyXe_effYnlT7guBjGXJKsMFBUzM2Gc743KtHOQVmb9hnfzMFbld6smjB2LoHFJDWD8VY_hOP7EGMXQr6v2aDge9NLu9F9dDipfrK5N9G6DSZkyoFvAmyssIzIxd2pfUczGiBov7njVjW68AHJZEuXJjvsJN7qCenuSLCaJsxP8hsoU_3gt182yJev_vHtoog2OT09r5cURid4WL5Uq6E793Kv82qDO_NHkatM923NDbdbm6AQhhcn0; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 20:31:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 20:31:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483907466468489; path=/; expires=Tue, 01-Jan-47 20:31:06 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: 43cd36016e2a5
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D2325836376%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 21:01:06 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 20:31 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=12%3A30%3A55+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=100+poeng+for+90+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AxxUedOUhg2mFPwJrOrtWrECrrHwAOwLFarfU.VJwVatpCAbXxjEKtTX&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=3P098243BA367561X&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=5.86&mc_gross=90.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=43316e3321a5d
+[2017-01-08 20:33 UTC] HTTP request of validation request:POST /cgi-bin/webscr HTTP/1.1
+Host: www.sandbox.paypal.com
+Accept: */*
+Connection: Close
+Content-Length: 718
+Content-Type: application/x-www-form-urlencoded
+
+ for IPN payload: cmd=_notify-validate&transaction_subject=&payment_date=12%3A33%3A26+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=100+poeng+for+90+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AcacYL44a.5jxxBN1gkBgJOgIPr7AvHh57Wro7D7USZBBP0fjDmkJB0q&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=6VP60732GW281213U&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=5.86&mc_gross=90.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=a21ca51413630
+[2017-01-08 20:33 UTC] HTTP response of validation request: HTTP/1.1 200 OK
+Date: Sun, 08 Jan 2017 20:33:39 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: c9MWDuvPtT9GIMyPc3jwol1VSlO=YX9fefoaIrQWPTM7ayEpe0QSwoM4fcF1xf4dGduey5WWvOCYt0uclPX4Rt0kUqj-kpcobGCsRzq0GdOsATOBlS1h4L_rRWUNYjiPjvGGXe6CHd2VKiIYa2jIFpoFJDN-lDqNZW6UtZNx7Q37ZDByfOCIChzkoccfgM-CqcknuFvpmiXCtui-zc0PJsKJFXNU_Xya9_Wnv39VYNPRiLWb__SO0mnzHHnmk4MYM-FtLfUj1jVwKga8rRO_mUC6wF7stBR6jWy_secjdxOeN2ZUJDJxz6y3EiCCQek1TlSfTQfZw0Yl7Ks8ZJRED6Xrj5UNYhsRy0Bn2LNQct8EBgDCbPd3L0dWC4oIyZHCbWHEvrKeL_EAsdPFi2s1-_VkA8mseoJ9hSLrOd_wsV_LFQxqPVnU992pCW6OKwWA6byBcQKrH4X2gFJCxhw3gSK; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Wed, 06-Jan-2027 20:33:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Tue, 08-Jan-2019 20:33:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.72.108.11.1483907619332961; path=/; expires=Tue, 01-Jan-47 20:33:39 GMT
+Vary: Accept-Encoding,User-Agent
+Connection: close
+HTTP_X_PP_AZ_LOCATOR: sandbox.slc
+Paypal-Debug-Id: 12745a994d029
+Set-Cookie: X-PP-SILOVER=name%3DSANDBOX3.WEB.1%26silo_version%3D1880%26app%3Dappdispatcher%26TIME%3D597848664%26HTTP_X_PP_AZ_LOCATOR%3Dsandbox.slc; Expires=Sun, 08 Jan 2017 21:03:39 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Strict-Transport-Security: max-age=14400
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+INVALID
+[2017-01-08 20:33 UTC] Invalid IPN: cmd=_notify-validate&transaction_subject=&payment_date=12%3A33%3A26+Jan+08%2C+2017+PST&txn_type=web_accept&last_name=Granberg&residence_country=NO&item_name=100+poeng+for+90+kroner&payment_gross=&mc_currency=NOK&business=paypal%40mafiano.no&payment_type=instant&protection_eligibility=Ineligible&verify_sign=AcacYL44a.5jxxBN1gkBgJOgIPr7AvHh57Wro7D7USZBBP0fjDmkJB0q&payer_status=unverified&payer_email=tommy_hg%40live.no&txn_id=6VP60732GW281213U&quantity=1&receiver_email=paypal%40mafiano.no&first_name=Tommy+Hagelund&payer_id=E7W4M36MVHVG6&receiver_id=6P6YWK5ZY54DQ&item_number=&payment_status=Completed&payment_fee=&mc_fee=5.86&mc_gross=90.00&custom=&charset=windows-1252&notify_version=3.8&ipn_track_id=a21ca51413630

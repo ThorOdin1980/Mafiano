@@ -1,0 +1,215 @@
+ 
+ /* Jalla mekk css filen tilhører mafiano.no, ingen andre en mafiano.no har lov til å bruke denne css filen. Kopiering er forbudt. */
+  
+ .Span_str_0 { float: left; width: 368px; margin:5px 0 0 5px; font-weight: bold; color:#FFFFFF; }
+ .Span_str_1 { float: left; margin:5px 0 0 5px; font-weight: bold; color:#FFFFFF; }
+ .Span_str_2 { float: left; margin:6px 0 0 5px; font-weight: bold; color:#000000; font-size:15px; }
+ .Span_str_3 { float: left; width: 233px; margin:5px 5px 0 5px; font-weight: bold; color:#FFFFFF; font-size:13px; }
+ .Span_str_4 { float: left; width: 233px; margin:0 5px 0 5px; color:#FFFFFF; }
+ .Span_str_5 { float: left; width: 440px; margin:0 5px 0 5px; color:#cc3f01; }
+ .Span_str_6 { float: left; width: 440px; margin:0 5px 0 5px; color:#3c943c; }
+ .Span_str_7 { float: left; width: 440px; margin:0 5px 0 5px; color:#908656; }
+ .Span_str_8 { float: left; width: 470px; margin:0 10px 0 5px; color:#FFFFFF; }
+ .Span_str_9 { float: left; margin:5px 0 0 5px; color:#FFFFFF; }
+ .Span_str_10 { float: left; width: 480px; margin:0 5px 0 5px; }
+ .Span_str_11 { float: left; width: 475px; margin:0 5px 0 5px; color:#FFFFFF; }
+ .Span_str_12 { float: left; width: 400px; margin:0 45px 0 45px; text-align:center; color:#FFFFFF; }
+ .Span_str_13 { float: left; width: 440px; margin:0 5px 0 5px; color:#FFFFFF; }
+ .Span_str_44 { float: left; width: 233px; margin:0 5px 0 5px; color:#cc3f01; }
+ 
+ .T_1, .T_2, .T_3 { float:left; margin:0 5px 0 5px; }
+ .T_1 { color:#3c943c; }
+ .T_2 { color:#cc3f01; }
+ .T_3 a:hover { font-weight:bold; cursor:pointer; }
+
+ .pan_str_2 { text-align:center; margin-top: 5px; }
+
+ .Div_masta {      float: left; margin-left:2px; }
+ .Div_innledning { float: left; border-bottom-style: solid; border-bottom-width: 1px; width: 490px; height: 30px; background: url('../Design/top_divs_de.jpg') repeat center top; margin-left:2px; }
+ .Div_bilde {    float: left; border-bottom:1px solid #000000; width: 490px; height: 200px; background-color:#303030; margin:2px 0 0 2px; }
+ .Div_MELDING {  float: left; border-bottom:1px solid #000000; width: 490px; background-color:#303030; margin:2px 0 0 2px; padding:5px 0 5px 0; }
+ .Div_venstre_side_1 { float: left; border-bottom:1px solid #000000; width: 110px; height: 25px; background-color:#303030; margin:2px 0 0 2px; }
+ .Div_venstre_side_2 { float: left; border-bottom:1px solid #000000; width: 110px; height: 200px; background-color:#303030; margin:2px 0 0 2px; }
+ .Div_venstre_side_3 { float: left; border-bottom:1px solid #000000; width: 110px; height: 15px; background-color:#3b3b3b; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_venstre_side_4 { float: left; border-bottom:1px solid #000000; width: 110px; height: 25px; background-color:#303030; margin:2px 0 0 2px; font-weight: bold; color:#FFFFFF; }
+ .Div_hoyre_side_1 {   float: left; border-bottom:1px solid #000000; width: 378px; height: 25px; background-color:#383838; margin:2px 0 0 2px; }
+ .Div_hoyre_side_2 {   float: left; border-bottom:1px solid #000000; width: 378px; height: 200px; background-color:#383838; margin:2px 0 0 2px; }
+ .Div_hoyre_side_3 {   float: left; border-bottom:1px solid #000000; width: 490px; background-color:#383838; margin:2px 0 0 2px; }
+ .Div_submit_knapp_1 { float: left; font-size:11px; color:#FFFFFF; border-bottom:1px solid #000000; width: 188px; height: 25px; margin:2px 0 0 2px; background:#515151 url('../Design/top_bak.jpg') repeat left top;  }
+ .Div_submit_knapp_2 { float: left; font-size:11px; color:#FFFFFF; border-bottom:1px solid #000000; width: 378px; height: 25px; margin:2px 0 0 2px; background:#515151 url('../Design/top_bak.jpg') repeat left top;  }
+ .Div_submit_knapp_3 { float: left; font-size:11px; color:#FFFFFF; border-bottom:1px solid #000000; width: 490px; height: 25px; margin:2px 0 0 2px; background:#515151 url('../Design/top_bak.jpg') repeat left top;  }
+ .Div_submit_knapp_4 { float: left; font-size:11px; color:#FFFFFF; border-bottom:1px solid #000000; width: 244px; height: 25px; margin:2px 0 0 2px; background:#515151 url('../Design/top_bak.jpg') repeat left top;  }
+ .Div_submit_knapp_5 { float: left; font-size:11px; color:#FFFFFF; border-bottom:1px solid #000000; width: 93px; height: 25px; margin:2px 0 0 2px; background:#515151 url('../Design/top_bak.jpg') repeat left top;  }
+ .Div_submit_knapp_1:hover, .Div_submit_knapp_2:hover, .Div_submit_knapp_3:hover, .Div_submit_knapp_4:hover, .Div_submit_knapp_5:hover { font-weight: bold; background-image: url('../Design/top_bak2.jpg') repeat left top; cursor:pointer; }
+ .Div_top_1 {   float: left; border-bottom:1px solid #000000; width: 148px; height: 25px; background-color:#303030; margin:2px 0 0 2px; }
+ .Div_top_2 {   float: left; border-bottom:1px solid #000000; width: 40px; height: 25px; background-color:#303030; margin:2px 0 0 2px; }
+ .Div_bunn_0 {  float: left; border-bottom:1px solid #000000; width: 148px; height: 15px; background-color:#4d4d4d; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_bunn_1 {  float: left; border-bottom:1px solid #000000; width: 148px; height: 15px; background-color:#3b3b3b; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_bunn_2 {  float: left; border-bottom:1px solid #000000; width: 40px; height: 15px; background-color:#3b3b3b; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_bunn_22 { float: left; border-bottom:1px solid #000000; width: 40px; height: 15px; background-color:#4d4d4d; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_bunn_3 {  float: left; border-bottom:1px solid #000000; width: 42px; height: 15px; background-color:#3b3b3b; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_bunn_4 {  float: left; border-bottom:1px solid #000000; width: 42px; height: 25px; background-color:#303030; margin:2px 0 0 2px; color:#FFFFFF; }
+ .Div_mellomledd { float: left; width: 490px; height: 5px;  margin:2px 0 0 3px; }
+ .Div_submeny_1 {  float: left; border-bottom-style: solid; border-bottom-width: 1px; border-color:#000000; width: 244px; height: 100px; background-color:#303030; margin:2px 0 0 2px; }
+ .Div_submeny_1:hover { background-color:#515151; cursor:pointer; }
+ 
+  /* Spillere pålogget. */
+  .Div_lang { float: left; border-bottom:1px solid #000000; background-color:#3b3b3b; width: 490px; margin:2px 0 0 2px; color:#FFFFFF; }
+
+  .Div_bilde_on { float: left; width: 120px; height: 100px; margin:5px 0 0 5px; padding-bottom: 5px; }
+  .Div_tekst_on { float: left; width: 345px; height: 100px; margin:5px 0 0 5px; padding-bottom: 5px; }
+  
+  .Div_Porno_0 {  float: left; border-bottom:1px solid #000000; width: 490px; background-color:#383838; margin:2px 0 0 2px; padding:5px 0 5px 0; }
+  .Div_Porno {  float: left;  border-bottom:1px solid #000000; width: 490px; background-color:#383838; margin:2px 0 0 2px; padding:5px 0 5px 0; }
+  .Div_Porno:hover { background-color:#515151; }
+
+  /* Plantasjen. */
+  .Div_aaker { float: left; border-bottom:1px solid #000000; width: 10px; height: 10px; background-color:#535b12; margin:2px 0 0 2px; font-weight: bold; color:#FFFFFF; }
+  
+  .MSS { float: left; border-bottom:1px solid #000000; width: 162px; background-color:#383838; margin:2px 0 0 2px; padding:20px 0 20px 0; }
+  .MSS:hover { background-color:#515151; cursor:pointer; }
+  .MSS_2 { float: left; border-bottom:1px solid #000000; width: 490px; background-color:#383838; margin:2px 0 0 2px; padding:20px 0 20px 0; }
+  
+  /* Drop ned valgmuligheter. */
+  .D_Over:hover { background-color:#5c5c5c; padding:2px; font-size:14px; cursor:pointer; }
+  .D_Boks { position:absolute; visibility:hidden; margin:20px 0 0 0; border-bottom:1px solid #000000; background-color:#383838; width:372px; color:#ffffff; padding:3px; clear:both; }
+  .D_BoksTo { position:absolute; visibility:hidden; margin:7px 0 0 0; border-bottom:1px solid #000000; background-color:#383838; width:236px; color:#ffffff; padding:3px; clear:both; }
+
+   /* Progress barer. */
+  .progressbar, .progressbar_v, .progressbarTo { position: relative; height: 20px; }
+  .progressbar { width:242px; background-color: #888888; }
+  .progressbarTo { width:476px; background-color: #888888; }
+  .progressbar_v { /* vertikal */ width:242px; background-color: #CCCCCC; }
+  .progressbar .progressbarTo, .progress { background-color: #CCCCCC; height: 20px; }
+  .progressbar_v .progress  { /* vertikal */ background-color: #888888; height: 20px; }
+  .progressbar p, .progressbar_v p, .progressbarTo p { padding: 0; margin: 0 0 0 8px !important; position: absolute; left: 0; top: 0; height: 20px; line-height: 20px; color: #000000; white-space: nowrap; overflow: hidden; }
+
+  /* Statistikk */
+  .Rute_1 { float:left; width:494px; font-family: Arial; font-size: 12px;}
+  .Rute_2 { width:246px; font-family: Arial; font-size: 12px; }
+  .R_0, .R_1, .R_2, .R_3, .R_4, .R_5, .R_6, .R_7, .R_8, .R_9 { border-bottom:1px solid #000000; }
+  .R_0 { font-family: Verdana; background-image: url('../Design/top_divs_de.jpg'); height: 30px; color:#000000; font-size:15px; text-indent:5px; font-weight: bold;  }
+  .R_1 { background-color:#303030; color:#ffffff; text-indent:5px; }
+  .R_2 { background-color:#383838; color:#ffffff; text-align:right; padding-right:5px; font-size:11px; }
+  .R_3 { background-color:#383838; color:#ffffff; text-indent:5px; font-size:11px; }
+  .R_4 { background-color:#303030; color:#ffffff; text-align:center; }
+  .R_5 { background-color:#383838; color:#ffffff; padding-left:5px; font-size:11px; vertical-align: top; }
+  .R_6 { background-color:#383838; color:#ffffff; text-align:center; font-size:11px; vertical-align: top; }
+  .R_7 { background: url('../Design/top_bak.jpg') repeat left top; color:#ffffff; text-align:center; font-size:11px; height:25px; }
+  .R_7:hover { font-weight: bold; background: url('../Design/top_bak2.jpg') repeat left top; }
+  .R_8 { background-color:#303030; }
+  .R_9 { background-color:#303030; color:#ffffff; padding:5px 0 5px 0; }
+    
+  /* Forum */
+  .Viktig_0 { background-color:#303030; color:#aaaaaa; }
+  .Viktig_1 { background-color:#3c3c43; color:#aaaaaa; }
+  .Viktig_2 { background-color:#36363d; color:#aaaaaa; }
+  .Vanlig_1 { background-color:#3a3a3c; color:#aaaaaa; }
+  .Vanlig_2 { background-color:#363638; color:#aaaaaa; }
+  .Ekstra:hover { cursor:pointer; background-color:#394139; }
+
+  .Linje { padding:3px; border-bottom-style: solid; border-bottom-width: 1px; border-color:#000000; }
+  .Plassering { text-align:center; }
+  .PlassTo { padding-left:6px; }
+  .Opprett { float:right; cursor:pointer; font-size:9px; line-height:30px; margin-right:5px; color:#b6e122; filter:alpha(opacity=50); opacity:0.5; }
+  .Opprett:hover { color:#b6e122; filter:alpha(opacity=90); opacity:0.9; }
+  .Toptic:hover { cursor:pointer; color:#ffffff; }
+  .Sticky { color:#b6e122; }
+  
+  .Forum_1 { vertical-align:text-top; background-color:#303030; }
+  .Forum_2 { vertical-align:text-top; background-color:#000000; }
+
+  .Box_1 { float:left; width: 478px; background-color:#3b3b3b; padding:3px; }
+  .Box_1 a.Bravo { float:left; width:15px; height:15px; background-image: url('../Design/TilTopp.png'); }
+  .Box_1 a.Bravo:hover { background-image: url('../Design/TilToppH.png'); }
+  .Box_1 p.top { float:left; margin-left:6px; color:#ffffff; font-size:11px; line-height:15px; }
+  .Box_1 p.tekst { float:left; color:#ffffff; font-size:11px; line-height:15px; }
+  .Box_1 p.rap { float:right; font-size:11px; line-height:15px; font-weight:bold; color:#b6e122; filter:alpha(opacity=30); opacity:0.3; }
+  .Box_1 p.rap:hover { filter:alpha(opacity=70); opacity:0.7; }
+  
+  .Box_2 { float:left; margin-top:1px; width: 474px; background-color:#3b3b3b; padding:5px; color: #ffffff; font-size: 11px; font-weight: normal; text-transform: none; text-decoration: none; }
+  .Box_2 span.img { float:right; cursor:pointer; width:130px; background-color:#000000; color: #BBBBBB; font-size:10px; margin:0 0 10px 10px; -moz-border-radius: 6px; -webkit-border-radius: 6px; }
+  .Box_2 span.img img { float:left; width:126px; margin:2px; }
+  .Box_2 span.img p.en { float:left; width:130px; margin-top:2px; text-align:center; }
+  .Box_2 span.img p.to { float:left; width:130px; margin-bottom:2px; text-align:center; }
+  .Box_2 span.img:hover { color:#ffffff; }
+  .Box_2 a.URL { color:#c7c7c7; }
+  .Box_2 a.URL:hover { text-decoration:underline; }
+  
+  .Box_3 { float:left; margin-top:1px; width: 478px; background-color:#3b3b3b; padding:3px;  }
+  .Box_3 p.top { float:left; color: #BBBBBB; font-size:11px; line-height:15px; }
+  .Box_3 a.slett { float:right; width:15px; height:15px; background-image: url('../Design/slett.png'); filter:alpha(opacity=30); opacity:0.3; }
+  .Box_3 a.slett:hover { filter:alpha(opacity=70); opacity:0.7; }
+  .Box_3 a.rediger { float:right; margin-right:3px; width:15px; height:15px; background-image: url('../Design/rediger.png'); filter:alpha(opacity=30); opacity:0.3; }
+  .Box_3 a.rediger:hover { filter:alpha(opacity=70); opacity:0.7; }
+  .Box_3 a.resirkuler { float:right; margin-right:3px; width:15px; height:15px; background-image: url('../Design/resirkuler.png'); filter:alpha(opacity=30); opacity:0.3;  }
+  .Box_3 a.resirkuler:hover { filter:alpha(opacity=70); opacity:0.7; }
+  
+  /* Kickboksing */
+  .R_8 .Post { float:right; height: 20px; margin-right:2px; background-color: #CCCCCC; width:110px; font-size:11px; font-weight:bold; text-align:center; color:#000000; line-height:20px; }
+  .R_8 .Post:hover { cursor:pointer; background-color: #888888; }
+  .R_8 .KickInfo { float:left; margin-left:2px; background-color: #434343; width:264px; height:190px; padding:5px; }
+  .R_8 .KickInfo span:first-child { margin-top:0; }
+  .R_8 .KickInfo span { float:left; width:254px; margin-top:2px; color:#000000; background-color: #CCCCCC; padding-top:2px; padding-bottom:2px; padding-left:5px; padding-right:5px; font-size:11px; }
+  .R_8 .KickInfo span p:first-child { float:left; padding:0; font-size:11px; }
+  .R_8 .KickInfo span p { float:right; padding-top:2px; font-size:9px; }
+
+  .Turnering { border-bottom-style: solid; border-bottom-width: 1px; border-color:#000000; text-align:center; color:#738929; font-size:12px; font-weight:bold; }
+  .Turnering:hover { background-color:#363636; cursor:pointer; color:#b6e122; }
+  
+  /* Innboks */
+  .Meld { float:left; width:480px; margin-left:2px; }
+  .Meld p.fra { float:left; }
+  .Meld p.dato { float:right; }
+  .Meld p.venn { float:right; color:#3c943c; font-weight:bold; }
+  .Markert { background-color:#394139; }
+  .Innboks { padding-bottom:7px; }
+  .Innboks .Melden { float:left; width:460px; margin:4px 0 2px 7px; padding:5px; background-color:#444444; font-size:11px; filter:alpha(opacity=50); opacity:0.5; }
+  .Innboks .Melden p.svar { float:right; color:#b6e122; font-weight:bold; }
+  .Innboks .Melden p.merk { float:right; color:#b6e122; font-weight:bold; margin-left:5px; }
+  .Innboks .Melden p.tittel { float:left; font-weight:bold; }
+  .Innboks .Melden p.Ny { float:left; margin-right:5px; color:#3c943c; font-weight:bold; }
+  .Innboks .Melden p.beskjed { display:none; }
+  .Innboks:hover .Melden { filter:alpha(opacity=90); opacity:0.9; }
+  .Innboks:hover .Melden p.beskjed { display: block; }
+  .Innboks .Melden p.svar:hover{ cursor:pointer; color:#22b2e1; }
+  .Innboks .Melden p.merk:hover { cursor:pointer; color:#22b2e1; }
+
+  /* Post melding */
+  .Send .Post { float:left; width:464px; text-align:center; margin:2px 0 0 7px; background-color:#444444; color:#b6e122; font-size:11px; font-weight:bold; padding:3px; filter:alpha(opacity=50); opacity:0.5; }
+  .Send .Post:hover { cursor:pointer; filter:alpha(opacity=90); opacity:0.9; }
+  
+  .Send .PostEn { width:150px; text-align:center; margin:6px 7px 0 7px; background-color:#444444; color:#b6e122; font-size:11px; font-weight:bold; padding:3px; filter:alpha(opacity=50); opacity:0.5; }
+  .Send .PostEn:hover { cursor:pointer; filter:alpha(opacity=90); opacity:0.9; }
+    
+  .Send textarea { float:left; margin:2px 0 0 7px; color:#ffffff; padding:3px; background-color:#444444; font-size:11px; filter:alpha(opacity=50); opacity:0.5; width:464px; height:200px; border-width:0; }
+  .Send input { float:left; margin:2px 0 0 7px; color:#ffffff; padding:3px; background-color:#444444; font-size:11px; filter:alpha(opacity=50); opacity:0.5; width:464px; border-width:0; }
+  .Send input:focus, textarea:focus { filter:alpha(opacity=90); opacity:0.9; }
+  .Send input:first-child { margin-top:7px; }
+  .Send .tekst { float:left; margin:2px 0 0 7px; color:#ffffff; padding:3px; background-color:#444444; filter:alpha(opacity=50); opacity:0.5; font-size:11px; width:464px; }
+  .Send .tekst:first-child { margin-top:7px; }
+
+  
+  .Send select { float:left; margin:2px 0 0 7px; color:#ffffff; padding: 3px 0 3px 0; background-color:#444444; font-size:11px; filter:alpha(opacity=50); opacity:0.5; width:470px; border-width:0; }
+  .Send select option { float:left; text-indent:5px; color:#7e9334; }
+  .Send select option:first-child { margin-top:5px; }
+  .Send select option:last-child { margin-bottom:5px; }
+  .Send select:focus, textarea:focus { filter:alpha(opacity=90); opacity:0.9; }
+  .Send select:first-child { margin-top:7px; }
+  .Sjul { display:none; }
+  
+  /* Online */
+  .On { padding-bottom:7px; }
+  .On .Online { float:left; position: relative; width:460px; margin:7px 0 2px 7px; padding:5px; background-color:#444444; font-size:11px; }
+  .On .Online .en { position: absolute; bottom: 5px; right: 5px; }
+  .On .Online .en p { float:right; margin-left:5px; background-color:#000000; padding:5px; line-height:20px; height:20px; width:30px; cursor:pointer; -moz-border-radius: 6px; -webkit-border-radius: 6px; }
+  .On .Online .en p:hover { filter:alpha(opacity=50); opacity:0.5; }
+  .On .Online .en p img { display:block; margin:auto; }
+  .On .Bilde { float:left; width:134px; background-color:#000000; -moz-border-radius: 6px; -webkit-border-radius: 6px; }
+  .On .Bilde:hover { cursor:pointer; filter:alpha(opacity=50); opacity:0.5; }
+  .On .Bilde img { float:left; width:126px; max-width:126px; min-height:126px; padding:4px; }
+  .On .Online .info { float:left; margin-left:10px; margin-top:2px; color:#ffffff; background-color:#404e52; width:297px; padding:3px 7px 3px 7px; -moz-border-radius: 4px; -webkit-border-radius: 4px; }
+  .On .Online .dato { float:left; margin-left:10px; margin-top:10px; color:#ffffff; text-align:right; width:311px; font-style:italic; }
+  .On .Online .info:nth-child(even) { background-color:#404e52; }
+  .On .Online .info:nth-child(odd) { background-color:#414c4f; }
+  .On .Online .info p { float:right; font-style:italic; }

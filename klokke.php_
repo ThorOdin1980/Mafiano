@@ -1,0 +1,17 @@
+<?
+// Variabler
+$Klokke = date("H:i:s");
+$Dato = date("d.m.y");
+$Nbsp = '//';
+$FullDato = $Klokke." ".$Nbsp." ".$Dato;
+  
+if(isset($_GET['Klokke'])) { 
+if(date("H") == '21') { $Open = " - Drap"; } elseif(date("H") == '16' || date("H") == '19' || date("H") == '22') { $Open = " - Kidnapping"; } else { $Open = ""; }
+$Open = $FullDato.$Open;
+
+$VarSend = array('1' => "$Open");
+echo json_encode($VarSend);
+exit;
+}
+  
+?>

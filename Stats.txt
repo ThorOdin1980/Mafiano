@@ -1,0 +1,173 @@
+
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="2">Nøkkeltall</td></tr>
+    <tr><td class="R_1">Statistikk skrevet</td><td class="R_2"><B>KL</B>&nbsp;17:13:37</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Medlemmer</td><td class="R_2">212 stk</td></tr>
+    <tr><td class="R_1">Mannlige medlemmer</td><td class="R_2">111 stk</td></tr>
+    <tr><td class="R_1">kvinnelige medlemmer</td><td class="R_2">13 stk</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Online siste 24 timene</td><td class="R_2">2 stk</td></tr>
+    <tr><td class="R_1">Online siste 48 timene</td><td class="R_2">4 stk</td></tr>
+    <tr><td class="R_1">Online siste 72 timene</td><td class="R_2">7 stk</td></tr>
+    <tr><td class="R_1">Online siste 96 timene</td><td class="R_2">8 stk</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Registrert i dag</td><td class="R_2">0 brukere</td></tr>
+    <tr><td class="R_1">Registrert i går</td><td class="R_2">0 brukere</td></tr>
+    <tr><td class="R_1">Registrert i forigårs</td><td class="R_2">0 brukere</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Penger i omløp</td><td class="R_2">12.391.881.840 kr</td></tr>
+    <tr><td class="R_1">Penger i bank</td><td class="R_2">4.333.674.226 kr</td></tr>
+    <tr><td class="R_1">Penger kontant</td><td class="R_2">291.311.907 kr</td></tr>
+    <tr><td class="R_1">Penger i plantasje</td><td class="R_2">1.849.938.777 kr</td></tr>
+    <tr><td class="R_1">Penger i gjeng</td><td class="R_2">57.120.000 kr</td></tr>
+    <tr><td class="R_1">Penger i bedrift</td><td class="R_2">5.859.836.930 kr</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Antall meldinger sendt</td><td class="R_2">4.254 stk</td></tr>
+    <tr><td class="R_1">Antall forumemner</td><td class="R_2">120 stk</td></tr>
+    <tr><td class="R_1">Antall forumsvar</td><td class="R_2">1.112 stk</td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="2">Flest / Mest</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+
+    <tr><td class="R_1">Flest - drap</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1">Flest - kidnappinger</td><td class="R_2"><a href="game.php?side=Bruker&navn=Vidgun">Vidgun</a></td></tr>
+    <tr><td class="R_1">Flest - brekk</td><td class="R_2"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td></tr>
+    <tr><td class="R_1">Flest - biltyveri</td><td class="R_2"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td></tr>
+    <tr><td class="R_1">Flest - upressninger</td><td class="R_2"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td></tr>
+    <tr><td class="R_1">Flest - utbryninger</td><td class="R_2"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td></tr>
+    <tr><td class="R_1">Flest - herverk</td><td class="R_2"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td></tr>
+    <tr><td class="R_1">Flest - horer pult</td><td class="R_2"><a href="game.php?side=Bruker&navn=Vidgun">Vidgun</a></td></tr>
+    <tr><td class="R_1">Flest - filmer produsert</td><td class="R_2"><a href="game.php?side=Bruker&navn=skaydem">skaydem</a></td></tr>
+    <tr><td class="R_1">Flest - planlagte ran</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Flest - meldinger sendt</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1">Flest - forumemner</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1">Flest - forumsvar</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1">Mest - respekt</td><td class="R_2"><a href="game.php?side=Bruker&navn=Vidgun">Vidgun</a></td></tr>
+    <tr><td class="R_1">Mest - rankprosent</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+
+
+    <tr><td class="R_1">Rikeste spiller</td><td class="R_2"><a href="game.php?side=Bruker&navn=skaydem">skaydem</a></td></tr>
+    <tr><td class="R_1">Nest rikeste spiller</td><td class="R_2"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr>
+    <tr><td class="R_1">Tredje rikeste spiller</td><td class="R_2"><a href="game.php?side=Bruker&navn=Raijin">Raijin</a></td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    <tr><td class="R_1" colspan="2">&nbsp;</td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="2">15 sist registrert</td></tr>
+    <tr><td class="R_4">Brukernavn</td><td class="R_4">Dato</td></tr>
+    <tr><td class="R_3"><a href="game.php?side=Bruker&navn=LOL+">LOL </a></td><td class="R_2">15:58:13 // 17. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=mikki1991">mikki1991</a></td><td class="R_2">16:09:37 // 16. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=FredrikDS98">FredrikDS98</a></td><td class="R_2">14:27:09 // 15. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=erwin-hammer">erwin-hammer</a></td><td class="R_2">22:04:48 // 13. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=J%C3%B8jgenBrevik">JøjgenBrevik</a></td><td class="R_2">22:04:39 // 13. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=big+g">big g</a></td><td class="R_2">21:57:26 // 11. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=gronlundbenz">gronlundbenz</a></td><td class="R_2">11:22:00 // 10. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Albanrasmusae+">Albanrasmusae </a></td><td class="R_2">00:39:52 // 10. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=xXMilfHunterXx">xXMilfHunterXx</a></td><td class="R_2">11:29:20 // 09. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=DickChocolate">DickChocolate</a></td><td class="R_2">23:47:56 // 06. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Mr.TAT">Mr.TAT</a></td><td class="R_2">16:39:27 // 03. Mar</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Al+Capone">Al Capone</a></td><td class="R_2">16:40:37 // 26. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=kappAPRIDE1">kappAPRIDE1</a></td><td class="R_2">23:44:32 // 25. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Charlie">Charlie</a></td><td class="R_2">14:46:28 // 24. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Stalker">Stalker</a></td><td class="R_2">00:57:49 // 23. Feb</td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="2">15 sist aktive spillere</td></tr>
+    <tr><td class="R_4">Brukernavn</td><td class="R_4">Sekunder siden</td></tr>
+    <tr><td class="R_3"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td><td class="R_2">10 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=mikki1991">mikki1991</a></td><td class="R_2">20 t 58 m 11 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=jc94">jc94</a></td><td class="R_2">1 d 20 t 23 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Albanrasmusae+">Albanrasmusae </a></td><td class="R_2">1 d 22 t 36 m 11 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=LOL+">LOL </a></td><td class="R_2">2 d 1 t 3 m 45 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=gronlundbenz">gronlundbenz</a></td><td class="R_2">2 d 9 t 28 m 7 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=kappAPRIDE1">kappAPRIDE1</a></td><td class="R_2">2 d 18 t 37 m 18 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=FredrikDS98">FredrikDS98</a></td><td class="R_2">3 d 23 t 7 m 53 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Vidgun">Vidgun</a></td><td class="R_2">5 d 7 t 1 m 36 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=erwin-hammer">erwin-hammer</a></td><td class="R_2">5 d 18 t 48 m 58 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=J%C3%B8jgenBrevik">JøjgenBrevik</a></td><td class="R_2">5 d 19 t 2 m 9 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=ROBBEL+MOGGONOS">ROBBEL MOGGONOS</a></td><td class="R_2">5 d 20 t 36 m 7 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Sarahxxy">Sarahxxy</a></td><td class="R_2">6 d 18 t 32 m 49 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td><td class="R_2">7 d 1 t 37 m 7 s </td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=big+g">big g</a></td><td class="R_2">7 d 19 t 16 m 10 s </td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="2">15 drept sist</td></tr>
+    <tr><td class="R_4">Brukernavn</td><td class="R_4">Dato</td></tr>
+    <tr><td class="R_3"><a href="game.php?side=Bruker&navn=Kristine">Kristine</a></td><td class="R_2">21:34:56 // 09. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=David+Toska">David Toska</a></td><td class="R_2">21:32:12 // 09. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=ScarFace">ScarFace</a></td><td class="R_2">21:19:13 // 09. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Spencer">Spencer</a></td><td class="R_2">21:00:40 // 09. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=111">111</a></td><td class="R_2">21:00:14 // 09. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=asd">asd</a></td><td class="R_2">21:23:13 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Andreasdybevik">Andreasdybevik</a></td><td class="R_2">21:22:37 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=sonnyboy2">sonnyboy2</a></td><td class="R_2">21:22:30 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=DTpower87">DTpower87</a></td><td class="R_2">21:22:21 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Viliusas99">Viliusas99</a></td><td class="R_2">21:22:12 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Nikolas">Nikolas</a></td><td class="R_2">21:22:05 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=lassekasse223">lassekasse223</a></td><td class="R_2">21:21:55 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=MavErik">MavErik</a></td><td class="R_2">21:21:42 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Costello">Costello</a></td><td class="R_2">21:21:35 // 08. Feb</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Quantum">Quantum</a></td><td class="R_2">21:00:46 // 08. Feb</td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="2">15 siste forfremmelser</td></tr>
+    <tr><td class="R_4">Brukernavn</td><td class="R_4">Rank</td></tr>
+    <tr><td class="R_3"><a href="game.php?side=Bruker&navn=Albanrasmusae+">Albanrasmusae </a></td><td class="R_2">Bråkmaker</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=ROBBEL+MOGGONOS">ROBBEL MOGGONOS</a></td><td class="R_2">Kaptein</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=gronlundbenz">gronlundbenz</a></td><td class="R_2">Lærling</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Albanrasmusae+">Albanrasmusae </a></td><td class="R_2">Lærling</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Stalker">Stalker</a></td><td class="R_2">Lærling</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Sjef</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=skaydem">skaydem</a></td><td class="R_2">Capo Crimini</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Raijin">Raijin</a></td><td class="R_2">Forførerske</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Baronesse</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Raijin">Raijin</a></td><td class="R_2">Luremus</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Kaptein</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Morderske</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Attentatdame</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Gangsterinne</td></tr><tr><td class="R_3"><a href="game.php?side=Bruker&navn=Chemistery">Chemistery</a></td><td class="R_2">Kriminell</td></tr>
+    </table></div>
+
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="3">Rank oversikt</td></tr>
+    <tr><td class="R_4">#</td><td class="R_4">Rank</td><td class="R_4">Antall</td></tr>
+    <tr><td class="R_3">15</td><td class="R_2">Capo Crimini</td><td class="R_5">4 stk</td></tr>
+    <tr><td class="R_3">14</td><td class="R_2">Leg.Don / Herskerinne</td><td class="R_5">1 stk</td></tr>
+    <tr><td class="R_3">13</td><td class="R_2">Don / Grevinne</td><td class="R_5">0 stk</td></tr>
+    <tr><td class="R_3">12</td><td class="R_2">Leg.Gudfar / Leg.Gudmor</td><td class="R_5">1 stk</td></tr>
+    <tr><td class="R_3">11</td><td class="R_2">Gudfar / Gudmor</td><td class="R_5">0 stk</td></tr>
+    <tr><td class="R_3">10</td><td class="R_2">Sjef</td><td class="R_5">4 stk</td></tr>
+    <tr><td class="R_3">09</td><td class="R_2">Narko Baron / Baronesse</td><td class="R_5">0 stk</td></tr>
+    <tr><td class="R_3">08</td><td class="R_2">Kaptein</td><td class="R_5">5 stk</td></tr>
+    <tr><td class="R_3">07</td><td class="R_2">Torpedo / Morderske</td><td class="R_5">2 stk</td></tr>
+    <tr><td class="R_3">06</td><td class="R_2">Attentatmann / Attentatdame</td><td class="R_5">2 stk</td></tr>
+    <tr><td class="R_3">05</td><td class="R_2">Gangster / Gangsterinne</td><td class="R_5">3 stk</td></tr>
+    <tr><td class="R_3">04</td><td class="R_2">Kriminell</td><td class="R_5">7 stk</td></tr>
+    <tr><td class="R_3">03</td><td class="R_2">Bråkmaker / Forførerske</td><td class="R_5">6 stk</td></tr>
+    <tr><td class="R_3">02</td><td class="R_2">Lærling / Luremus</td><td class="R_5">5 stk</td></tr>
+    <tr><td class="R_3">01</td><td class="R_2">Uteligger</td><td class="R_5">56 stk</td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_2">
+    <tr><td class="R_0" colspan="3">Pengestatus</td></tr>
+    <tr><td class="R_4">#</td><td class="R_4">Navn</td><td class="R_4">Antall</td></tr>
+    <tr><td class="R_3">12</td><td class="R_2">Billionær</td><td class="R_5">0 stk</td></tr>
+    <tr><td class="R_3">11</td><td class="R_2">Vellykket milliardær</td><td class="R_5">0 stk</td></tr>
+    <tr><td class="R_3">10</td><td class="R_2">Milliardær</td><td class="R_5">0 stk</td></tr>
+    <tr><td class="R_3">09</td><td class="R_2">Farlig rik</td><td class="R_5">1 stk</td></tr>
+    <tr><td class="R_3">08</td><td class="R_2">Mange millionær</td><td class="R_5">3 stk</td></tr>
+    <tr><td class="R_3">07</td><td class="R_2">Millionær</td><td class="R_5">9 stk</td></tr>
+    <tr><td class="R_3">06</td><td class="R_2">Overklasse</td><td class="R_5">9 stk</td></tr>
+    <tr><td class="R_3">05</td><td class="R_2">Vellykket arbeider</td><td class="R_5">10 stk</td></tr>
+    <tr><td class="R_3">04</td><td class="R_2">Arbeider</td><td class="R_5">13 stk</td></tr>
+    <tr><td class="R_3">03</td><td class="R_2">Streber</td><td class="R_5">23 stk</td></tr>
+    <tr><td class="R_3">02</td><td class="R_2">Fattig</td><td class="R_5">31 stk</td></tr>
+    <tr><td class="R_3">01</td><td class="R_2">Boms</td><td class="R_5">65 stk</td></tr>
+    <tr><td class="R_3" colspan="3">&nbsp;</td></tr>
+    <tr><td class="R_3" colspan="3">&nbsp;</td></tr>
+    <tr><td class="R_3" colspan="3">&nbsp;</td></tr>
+    </table></div>
+    
+    <div class="Div_masta">
+    <table class="Rute_1">
+	<tr><td class="R_0" colspan="4">Bedrifter</td></tr>
+	<tr><td class="R_4" style="width:120px;">&nbsp;</td><td class="R_4">Bedrift</td><td class="R_4">Type</td><td class="R_4">Eier</td></tr>
+    <tr><td rowspan="5" class="R_4">Drammen</td><td class="R_6">Drammen Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Drammen Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Drammen Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Drammen Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Drammen Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Lillehammer</td><td class="R_6">Lillehammer Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Lillehammer Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Lillehammer Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Lillehammer Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a></td></tr><tr><td class="R_6">Lillehammer Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Hamar</td><td class="R_6">The Syndicate Bullets</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr><tr><td class="R_6">Syndicated</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Kischur+Zelretch">Kischur Zelretch</a></td></tr><tr><td class="R_6">Syndicate Protection</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr><tr><td class="R_6">Vidgun Guns</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Kischur+Zelretch">Kischur Zelretch</a></td></tr><tr><td class="R_6">Vidgun Båt</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Kischur+Zelretch">Kischur Zelretch</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Alta</td><td class="R_6">Alta Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Alta Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Alta Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Alta Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Alta Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+    <tr><td rowspan="5" class="R_4">Bergen</td><td class="R_6">Bergen Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bergen Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bergen Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bergen Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bergen Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Bodø</td><td class="R_6">Syndicate Bullets</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Kischur+Zelretch">Kischur Zelretch</a></td></tr><tr><td class="R_6">Bodø Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bodø Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bodø Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Bodø Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Oslo</td><td class="R_6">The Syndicate Bullets</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a></td></tr><tr><td class="R_6">Oslo Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Oslo Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Oslo Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Oslo Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Stavanger</td><td class="R_6">Stavanger Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Stavanger Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Stavanger Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Stavanger Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Stavanger Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+    <tr><td rowspan="5" class="R_4">Trondheim</td><td class="R_6">Trondheim Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Trondheim Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Trondheim Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Trondheim Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Trondheim Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Tromsø</td><td class="R_6">Troms� Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Tromsø Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Tromsø Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Tromsø Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Tromsø Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Kristiansand</td><td class="R_6">Kristiansand Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Kristiansand Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Kristiansand Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Kristiansand Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Kristiansand Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	<tr><td rowspan="5" class="R_4">Sandefjord</td><td class="R_6">Sandefjord Kuler</font></td><td class="R_2">Kulefabrikk</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Sandefjord Båter</font></td><td class="R_2">Båter</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Sandefjord Fly</font></td><td class="R_2">Fly</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Sandefjord Våpen</font></td><td class="R_2">Våpen</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr><tr><td class="R_6">Sandefjord Beskyttelse</font></td><td class="R_2">Beskyttelse</td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a></td></tr>
+	</table></div>
+	
+	<div class="Div_masta">
+    <table class="Rute_1">
+	<tr><td class="R_0" colspan="5">Gjenger</td></tr>
+	<tr><td class="R_4">#</td><td class="R_4">Gjeng</td><td class="R_4">Gjengstyre</td><td class="R_4">Medlemmer</td><td class="R_4">Opprettet</td></tr>
+	
+    <tr><td class="R_6">1</td><td class="R_5"><a href="game.php?side=Gjeng&navn=KKK">KKK</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=Vidgun">Vidgun</a><br></td><td class="R_5">&nbsp;</td><td class="R_5">19:03:00 // 11. Mar</td></tr>
+    
+    <tr><td class="R_6">2</td><td class="R_5"><a href="game.php?side=Gjeng&navn=Wolverines">Wolverines</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=skaydem">skaydem</a><br></td><td class="R_5"><a href="game.php?side=Bruker&navn=jc94">jc94</a><br><a href="game.php?side=Bruker&navn=Lars+Fransisco">Lars Fransisco</a><br><a href="game.php?side=Bruker&navn=Sarahxxy">Sarahxxy</a><br></td><td class="R_5">17:48:36 // 10. Feb</td></tr>
+    
+    <tr><td class="R_6">3</td><td class="R_5"><a href="game.php?side=Gjeng&navn=Pentagon">Pentagon</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=Quantum">Quantum</a><br></td><td class="R_5">&nbsp;</td><td class="R_5">18:43:49 // 25. Jan</td></tr>
+    
+    <tr><td class="R_6">4</td><td class="R_5"><a href="game.php?side=Gjeng&navn=Los+Bandidos">Los Bandidos</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=Bangboy1">Bangboy1</a><br></td><td class="R_5">&nbsp;</td><td class="R_5">18:14:44 // 23. Jan</td></tr>
+    
+    <tr><td class="R_6">5</td><td class="R_5"><a href="game.php?side=Gjeng&navn=Bruspulvergutta">Bruspulvergutta</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=Spencer">Spencer</a><br></td><td class="R_5"><a href="game.php?side=Bruker&navn=Mandamento">Mandamento</a><br></td><td class="R_5">20:36:33 // 16. Jan</td></tr>
+    
+    <tr><td class="R_6">6</td><td class="R_5"><a href="game.php?side=Gjeng&navn=The+Syndicate">The Syndicate</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=Don+Corleone">Don Corleone</a><br></td><td class="R_5"><a href="game.php?side=Bruker&navn=Future+Hendrix">Future Hendrix</a><br><a href="game.php?side=Bruker&navn=Millennium">Millennium</a><br><a href="game.php?side=Bruker&navn=Raijin">Raijin</a><br><a href="game.php?side=Bruker&navn=Kischur+Zelretch">Kischur Zelretch</a><br><a href="game.php?side=Bruker&navn=ReinMan">ReinMan</a><br><a href="game.php?side=Bruker&navn=Carmela+Corleone">Carmela Corleone</a><br></td><td class="R_5">21:45:53 // 12. Jan</td></tr>
+    
+    <tr><td class="R_6">7</td><td class="R_5"><a href="game.php?side=Gjeng&navn=MafiaNo+Crew">MafiaNo Crew</a></td><td class="R_5"><a href="game.php?side=Bruker&navn=Havers">Havers</a><br></td><td class="R_5"><a href="game.php?side=Bruker&navn=KvikkLunsj">KvikkLunsj</a><br></td><td class="R_5">18:00:00 // 06. Jan</td></tr>
+    
+	</table></div>
+	
