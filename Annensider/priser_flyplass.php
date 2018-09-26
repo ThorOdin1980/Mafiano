@@ -1,0 +1,159 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<?
+if (empty($type)) { header("Location: index.php"); }
+if ($land == 'Drammen') { $flyplass_pris1 = '0'; }
+if ($land == 'Drammen') { $flyplass_pris2 = '1800'; }
+if ($land == 'Drammen') { $flyplass_pris3 = '1600'; }
+if ($land == 'Drammen') { $flyplass_pris4 = '9000'; }
+if ($land == 'Drammen') { $flyplass_pris5 = '3600'; }
+if ($land == 'Drammen') { $flyplass_pris6 = '8000'; }
+if ($land == 'Drammen') { $flyplass_pris7 = '900'; }
+if ($land == 'Drammen') { $flyplass_pris8 = '3600'; }
+if ($land == 'Drammen') { $flyplass_pris9 = '5800'; }
+if ($land == 'Drammen') { $flyplass_pris10 = '8500'; }
+if ($land == 'Drammen') { $flyplass_pris11 = '3400'; }
+if ($land == 'Drammen') { $flyplass_pris12 = '700'; }
+
+if ($land == 'Lillehammer') { $flyplass_pris1 = '1800'; }
+if ($land == 'Lillehammer') { $flyplass_pris2 = '0'; }
+if ($land == 'Lillehammer') { $flyplass_pris3 = '800'; }
+if ($land == 'Lillehammer') { $flyplass_pris4 = '8500'; }
+if ($land == 'Lillehammer') { $flyplass_pris5 = '3700'; }
+if ($land == 'Lillehammer') { $flyplass_pris6 = '7400'; }
+if ($land == 'Lillehammer') { $flyplass_pris7 = '1700'; }
+if ($land == 'Lillehammer') { $flyplass_pris8 = '3800'; }
+if ($land == 'Lillehammer') { $flyplass_pris9 = '5300'; }
+if ($land == 'Lillehammer') { $flyplass_pris10 = '8000'; }
+if ($land == 'Lillehammer') { $flyplass_pris11 = '3900'; }
+if ($land == 'Lillehammer') { $flyplass_pris12 = '2000'; }
+
+if ($land == 'Hamar') { $flyplass_pris1 = '1600'; }
+if ($land == 'Hamar') { $flyplass_pris2 = '800'; }
+if ($land == 'Hamar') { $flyplass_pris3 = '0'; }
+if ($land == 'Hamar') { $flyplass_pris4 = '8700'; }
+if ($land == 'Hamar') { $flyplass_pris5 = '3750'; }
+if ($land == 'Hamar') { $flyplass_pris6 = '7600'; }
+if ($land == 'Hamar') { $flyplass_pris7 = '1500'; }
+if ($land == 'Hamar') { $flyplass_pris8 = '3850'; }
+if ($land == 'Hamar') { $flyplass_pris9 = '5400'; }
+if ($land == 'Hamar') { $flyplass_pris10 = '8200'; }
+if ($land == 'Hamar') { $flyplass_pris11 = '3800'; }
+if ($land == 'Hamar') { $flyplass_pris12 = '1800'; }
+
+if ($land == 'Alta') { $flyplass_pris1 = '9000'; }
+if ($land == 'Alta') { $flyplass_pris2 = '8500'; }
+if ($land == 'Alta') { $flyplass_pris3 = '8700'; }
+if ($land == 'Alta') { $flyplass_pris4 = '0'; }
+if ($land == 'Alta') { $flyplass_pris5 = '8760'; }
+if ($land == 'Alta') { $flyplass_pris6 = '1500'; }
+if ($land == 'Alta') { $flyplass_pris7 = '8900'; }
+if ($land == 'Alta') { $flyplass_pris8 = '9200'; }
+if ($land == 'Alta') { $flyplass_pris9 = '5600'; }
+if ($land == 'Alta') { $flyplass_pris10 = '1050'; }
+if ($land == 'Alta') { $flyplass_pris11 = '9990'; }
+if ($land == 'Alta') { $flyplass_pris12 = '9100'; }
+
+if ($land == 'Bergen') { $flyplass_pris1 = '3600'; }
+if ($land == 'Bergen') { $flyplass_pris2 = '3700'; }
+if ($land == 'Bergen') { $flyplass_pris3 = '3750'; }
+if ($land == 'Bergen') { $flyplass_pris4 = '8760'; }
+if ($land == 'Bergen') { $flyplass_pris5 = '0'; }
+if ($land == 'Bergen') { $flyplass_pris6 = '5900'; }
+if ($land == 'Bergen') { $flyplass_pris7 = '3700'; }
+if ($land == 'Bergen') { $flyplass_pris8 = '1700'; }
+if ($land == 'Bergen') { $flyplass_pris9 = '5400'; }
+if ($land == 'Bergen') { $flyplass_pris10 = '8150'; }
+if ($land == 'Bergen') { $flyplass_pris11 = '3400'; }
+if ($land == 'Bergen') { $flyplass_pris12 = '2000'; }
+
+if ($land == 'Bodø') { $flyplass_pris1 = '8000'; }
+if ($land == 'Bodø') { $flyplass_pris2 = '7400'; }
+if ($land == 'Bodø') { $flyplass_pris3 = '7600'; }
+if ($land == 'Bodø') { $flyplass_pris4 = '1500'; }
+if ($land == 'Bodø') { $flyplass_pris5 = '5900'; }
+if ($land == 'Bodø') { $flyplass_pris6 = '0'; }
+if ($land == 'Bodø') { $flyplass_pris7 = '7900'; }
+if ($land == 'Bodø') { $flyplass_pris8 = '8200'; }
+if ($land == 'Bodø') { $flyplass_pris9 = '3300'; }
+if ($land == 'Bodø') { $flyplass_pris10 = '1300'; }
+if ($land == 'Bodø') { $flyplass_pris11 = '5990'; }
+if ($land == 'Bodø') { $flyplass_pris12 = '5390'; }
+
+if ($land == 'Oslo') { $flyplass_pris1 = '900'; }
+if ($land == 'Oslo') { $flyplass_pris2 = '1700'; }
+if ($land == 'Oslo') { $flyplass_pris3 = '1500'; }
+if ($land == 'Oslo') { $flyplass_pris4 = '8900'; }
+if ($land == 'Oslo') { $flyplass_pris5 = '3700'; }
+if ($land == 'Oslo') { $flyplass_pris6 = '7900'; }
+if ($land == 'Oslo') { $flyplass_pris7 = '0'; }
+if ($land == 'Oslo') { $flyplass_pris8 = '3700'; }
+if ($land == 'Oslo') { $flyplass_pris9 = '5700'; }
+if ($land == 'Oslo') { $flyplass_pris10 = '8400'; }
+if ($land == 'Oslo') { $flyplass_pris11 = '1300'; }
+if ($land == 'Oslo') { $flyplass_pris12 = '750'; }
+
+if ($land == 'Stavanger') { $flyplass_pris1 = '3600'; }
+if ($land == 'Stavanger') { $flyplass_pris2 = '3800'; }
+if ($land == 'Stavanger') { $flyplass_pris3 = '3850'; }
+if ($land == 'Stavanger') { $flyplass_pris4 = '9200'; }
+if ($land == 'Stavanger') { $flyplass_pris5 = '1700'; }
+if ($land == 'Stavanger') { $flyplass_pris6 = '8200'; }
+if ($land == 'Stavanger') { $flyplass_pris7 = '3700'; }
+if ($land == 'Stavanger') { $flyplass_pris8 = '0'; }
+if ($land == 'Stavanger') { $flyplass_pris9 = '6200'; }
+if ($land == 'Stavanger') { $flyplass_pris10 = '8800'; }
+if ($land == 'Stavanger') { $flyplass_pris11 = '3200'; }
+if ($land == 'Stavanger') { $flyplass_pris12 = '3500'; }
+
+if ($land == 'Trondheim') { $flyplass_pris1 = '5800'; }
+if ($land == 'Trondheim') { $flyplass_pris2 = '5300'; }
+if ($land == 'Trondheim') { $flyplass_pris3 = '5400'; }
+if ($land == 'Trondheim') { $flyplass_pris4 = '5600'; }
+if ($land == 'Trondheim') { $flyplass_pris5 = '5400'; }
+if ($land == 'Trondheim') { $flyplass_pris6 = '3300'; }
+if ($land == 'Trondheim') { $flyplass_pris7 = '5700'; }
+if ($land == 'Trondheim') { $flyplass_pris8 = '6200'; }
+if ($land == 'Trondheim') { $flyplass_pris9 = '0'; }
+if ($land == 'Trondheim') { $flyplass_pris10 = '5300'; }
+if ($land == 'Trondheim') { $flyplass_pris11 = '7000'; }
+if ($land == 'Trondheim') { $flyplass_pris12 = '5950'; }
+
+if ($land == 'Tromsø') { $flyplass_pris1 = '8500'; }
+if ($land == 'Tromsø') { $flyplass_pris2 = '8000'; }
+if ($land == 'Tromsø') { $flyplass_pris3 = '8200'; }
+if ($land == 'Tromsø') { $flyplass_pris4 = '1050'; }
+if ($land == 'Tromsø') { $flyplass_pris5 = '8150'; }
+if ($land == 'Tromsø') { $flyplass_pris6 = '1300'; }
+if ($land == 'Tromsø') { $flyplass_pris7 = '8400'; }
+if ($land == 'Tromsø') { $flyplass_pris8 = '8800'; }
+if ($land == 'Tromsø') { $flyplass_pris9 = '5300'; }
+if ($land == 'Tromsø') { $flyplass_pris10 = '0'; }
+if ($land == 'Tromsø') { $flyplass_pris11 = '7390'; }
+if ($land == 'Tromsø') { $flyplass_pris12 = '6990'; }
+
+if ($land == 'Kristiansand') { $flyplass_pris1 = '3400'; }
+if ($land == 'Kristiansand') { $flyplass_pris2 = '3900'; }
+if ($land == 'Kristiansand') { $flyplass_pris3 = '3800'; }
+if ($land == 'Kristiansand') { $flyplass_pris4 = '9990'; }
+if ($land == 'Kristiansand') { $flyplass_pris5 = '3400'; }
+if ($land == 'Kristiansand') { $flyplass_pris6 = '5990'; }
+if ($land == 'Kristiansand') { $flyplass_pris7 = '1300'; }
+if ($land == 'Kristiansand') { $flyplass_pris8 = '3200'; }
+if ($land == 'Kristiansand') { $flyplass_pris9 = '7000'; }
+if ($land == 'Kristiansand') { $flyplass_pris10 = '7390'; }
+if ($land == 'Kristiansand') { $flyplass_pris11 = '0'; }
+if ($land == 'Kristiansand') { $flyplass_pris12 = '2000'; }
+
+if ($land == 'Sandefjord') { $flyplass_pris1 = '700'; }
+if ($land == 'Sandefjord') { $flyplass_pris2 = '2000'; }
+if ($land == 'Sandefjord') { $flyplass_pris3 = '1800'; }
+if ($land == 'Sandefjord') { $flyplass_pris4 = '9100'; }
+if ($land == 'Sandefjord') { $flyplass_pris5 = '2000'; }
+if ($land == 'Sandefjord') { $flyplass_pris6 = '5390'; }
+if ($land == 'Sandefjord') { $flyplass_pris7 = '750'; }
+if ($land == 'Sandefjord') { $flyplass_pris8 = '3500'; }
+if ($land == 'Sandefjord') { $flyplass_pris9 = '5950'; }
+if ($land == 'Sandefjord') { $flyplass_pris10 = '6990'; }
+if ($land == 'Sandefjord') { $flyplass_pris11 = '2000'; }
+if ($land == 'Sandefjord') { $flyplass_pris12 = '0'; }
+?>
