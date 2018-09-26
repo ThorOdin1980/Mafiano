@@ -509,12 +509,12 @@ setInterval( function(){
   <div id="SB_Midten"><h1>Innhold</h1><div id="SB_Midten2">   
   <?php   
 
-
-    if($userinfo['user_verified'] == '1') {
+# User verification with sms; skipped.
+#    if($userinfo['user_verified'] == '1') {
       include("./common/router.php");
-    } else {
-      include("./common/files/system/verify.php");
-    }
+#    } else {
+#      include("./common/files/system/verify.php");
+#    }
     
     
     echo $output;

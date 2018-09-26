@@ -10,9 +10,9 @@ $nbsp = '//';
 $tiden = time();
 
 $host_db_Xx = 'localhost'; 
-$bruker_db_Xx = 'mafiano_old';
-$passord_db_Xx = 'bauervapor';
-$navn_db_Xx = 'mafiano_old';
+$bruker_db_Xx = 'root';
+$passord_db_Xx = 'root';
+$navn_db_Xx = 'mafiano';
 $url_Xx = "http://mafiano.no/";                                                 
 $web_navn_Xx = "http://mafiano.no/";
 $sonny_mail_Xx = "";
