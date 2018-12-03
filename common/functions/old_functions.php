@@ -1307,7 +1307,7 @@
         global $brukernavn, $Timestamp, $FullDato, $land;
       
         $F = mysql_query("SELECT * FROM fengsel WHERE brukernavn='$brukernavn' AND $Timestamp > timestamp_over");
-        
+
         if (mysql_num_rows($F) > 0)
         {
             mysql_query("DELETE FROM fengsel WHERE brukernavn='$brukernavn'");

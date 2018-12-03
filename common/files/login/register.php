@@ -100,15 +100,20 @@ if(!defined('view') or isset($_SESSION['id'])) { $output .= $noaccess; } else {
                                         // Div
                                         $startcity = 'Hamar';
 
+#                                        $create_user = $db->prepare("
+#                            INSERT INTO brukere (`brukernavn`, `passord`, `email`, `land`, `regtid`, `ip`, `bosted_i_norge`, `regtid_stamp`, `Kjon`, `InvitertAv`, `sistinne`, `timestamp_inne`, `aktiv_eller`, `logg_in_id`, `vervet_av`) VALUES 
+#                                            (:username, :password, :email, :startcity, :weirddate, :iplocation, :zipcode, :time, :sex, :invited_by, :sistinne, :timestamp_inne, :aktiv_eller, :logg_in_id, :vervet_av)");
+
+					## Added 'user_verified' with value 1 to bypass SMS verification
                                         $create_user = $db->prepare("
-                            INSERT INTO brukere (`brukernavn`, `passord`, `email`, `land`, `regtid`, `ip`, `bosted_i_norge`, `regtid_stamp`, `Kjon`, `InvitertAv`, `sistinne`, `timestamp_inne`, `aktiv_eller`, `logg_in_id`, `vervet_av`) VALUES 
-                                            (:username, :password, :email, :startcity, :weirddate, :iplocation, :zipcode, :time, :sex, :invited_by, :sistinne, :timestamp_inne, :aktiv_eller, :logg_in_id, :vervet_av)");
+                            INSERT INTO brukere (`brukernavn`, `passord`, `email`, `land`, `regtid`, `ip`, `bosted_i_norge`, `regtid_stamp`, `Kjon`, `InvitertAv`, `sistinne`, `timestamp_inne`, `aktiv_eller`, `logg_in_id`, `vervet_av`, `user_verified`) VALUES 
+                                            (:username, :password, :email, :startcity, :weirddate, :iplocation, :zipcode, :time, :sex, :invited_by, :sistinne, :timestamp_inne, :aktiv_eller, :logg_in_id, :vervet_av, 1)");
                                         $create_user->bindValue(':username', $_POST['username']);
                                         $create_user->bindValue(':password', md5($_POST['password']));
                                         $create_user->bindValue(':email', $_POST['email']);
                                         $create_user->bindValue(':startcity', $startcity);
                                         $create_user->bindValue(':weirddate', date("H:i:s // d. M"));
-                                        $create_user->bindValue(':iplocation', geoCheckIP($_SERVER['REMOTE_ADDR']));
+                                        $create_user->bindValue(':iplocation', 'null'); //geoCheckIP($_SERVER['REMOTE_ADDR']));
                                         $create_user->bindValue(':zipcode', $zipcode['kommune']);
                                         $create_user->bindValue(':time', time());
                                         $create_user->bindValue(':sex', $_POST['sex']);
