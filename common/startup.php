@@ -38,7 +38,7 @@
 
 			// Can now get userinfo via $userinfo
 		} else {
-			echo 'Noe galt skjedde.';
+			echo 'Failed to get user data from id: startup.php';
 		}
 	}
 
